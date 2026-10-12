@@ -1,4 +1,6 @@
 # Indian Tech Market Tracker
+![Dashboard](dashboard.png)
+
 
 A dashboard showing tech job demand in India: top roles, cities, in-demand skills and posting trends.
 
